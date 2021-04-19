@@ -30,6 +30,6 @@ Inquiries can be sent to me at my email address below.
 # Contact
 *********
 
-* Github[Github]https://github.com/bjenkins63
+* Github[Github]https://github.com/bjenkins63/Exercise-tracker
 
 * Email[Email]mailto:studiojenkins@yahoo.com
